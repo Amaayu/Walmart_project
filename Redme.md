@@ -34,12 +34,14 @@ WALMART_PROJECT/
 
 Clone the repository:
 git clone https://github.com/Amaayu/Walmart_project.git
-cd smart-checkout-backend
+
+
+cd Walmart_Project
 Install dependencies for both servers:
+
 cd walmart-local-store
 npm install
 RUN npm run dev
-
 
 cd walmart-app
 npm install
